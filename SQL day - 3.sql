@@ -227,7 +227,7 @@ select * from personel where isim like '%t';
 
 select * from personel where isim like '_e%';
 
--- 3. gün sonu --
+--- 3. gün sonu ---
 
 
 
